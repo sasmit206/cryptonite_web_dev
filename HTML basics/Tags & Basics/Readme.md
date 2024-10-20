@@ -6,4 +6,3 @@ the 3 parts of element are :
                 2. main content enclosed
                 3. closing tag </p>
 ```
-```
