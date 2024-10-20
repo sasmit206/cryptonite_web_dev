@@ -37,7 +37,7 @@ To open link in new tab we should add `target` attribute in the field.
 
 # Code
 
-## index.html
+## index.html //landing page - usually the default homepage user is redirected to
 
 ```html
 <!DOCTYPE html>
@@ -56,7 +56,7 @@ To open link in new tab we should add `target` attribute in the field.
 </html>
 ```
 
-## About.html
+## about.html //redirects to about page
 
 ```html
 
