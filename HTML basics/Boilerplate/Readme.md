@@ -19,8 +19,8 @@ task is to specify the language of the text present in given element
 # Head
 
 comprises of non-visible content
-`<meta charset="UTF-8">`: \sets the encoding of characters.
-`<title>`: Used to set title for tab in web browser.
+`<meta charset="UTF-8">`: specifies the type of encoding of characters
+`<title>`: the tab present in browser uses it to provide a gist of the opened webpage.
 
 # Body element
 
